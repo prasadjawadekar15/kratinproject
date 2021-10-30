@@ -4,4 +4,4 @@
  so you can see the demo here-
  <a href="http://kratinproject.atwebpages.com/"> CLICK HERE</a>
  
- <p>FOR BRIEF INFO  <a href="KRATIN_PROJECT.pdf">CLICK HERE</a>
+ <p>FOR BRIEF INFO  <a href="info.html">CLICK HERE</a>
