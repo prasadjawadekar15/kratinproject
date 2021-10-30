@@ -4,7 +4,7 @@
  so you can see the demo here-
  <a href="http://kratinproject.atwebpages.com/"> CLICK HERE</a>
  
- <p>FOR BRIEF INFO  <a href="http://kratinproject.atwebpages.com/KRATIN_PROJECT.pdf">CLICK HERE</a>(If you are using mobile then select download link option)<br>
+ <p>FOR BRIEF INFO  <a href="http://kratinproject.atwebpages.com/KRATIN_PROJECT.pdf">CLICK HERE</a>(If you are using mobile then select download link option)<br><br>
  you can use this account or you can create your own account</p>
  <h5>FOR PATIENT ACCOUNT</h5>
 <p>Use username-<b>anita_sharma@gmail.com</b><br>password-<b>123456</b>
