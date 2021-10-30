@@ -14,5 +14,5 @@
 </b>
  
  <h5>FOR MEDICAL STORE ACCOUNT</h5>
- <p> for medical store accounts has not been created yet!</p>
+ <p> note- medical store accounts has not been created yet!</p>
  
